@@ -12,7 +12,7 @@ Bu proje, diyabet hastalığını tahmin etmek için çeşitli makine öğrenmes
 - Decision Tree
 - Naive Bayes
 - XGBoost
-- CatBoost
+
 
 ## İçindekiler
 
